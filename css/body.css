@@ -41,7 +41,7 @@
 }
 
 centered {
-    color: whitesmoke;
+    /* color: whitesmoke; */
     opacity: 80%;
     position: absolute;
     top: 110%;
